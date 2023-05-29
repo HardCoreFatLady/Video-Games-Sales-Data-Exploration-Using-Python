@@ -1,7 +1,5 @@
 # Video Games Sales Data Exploration Using Python
 
-
-# 1. About dataset: 
 As one of the greatest inventions of the 21st century, the development trend of video games has been concerned by people. In recent years, the global game market has witnessed rapid growth, and the global game market is expected to reach a record $203.1 billion in 2022, up 5.4% year-on-year. At the same time, the number of players worldwide will cross the 3 billion mark.
 This data set includes games' name, game platforms released, game genre, publisher, sales by region, and global sales over the period 1980-2020. 
 
